@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: more-please
+Version: 0.1.0
+Summary: Link-in-bio Static Site Generator
+Home-page: https://github.com/caitreid/more-please_backend.git
+Author: Caitlin Reid
+Author-email: ctlnrd@gmail.com
+License-File: LICENSE
+License-File: LICENSE.md
+
+# more-please_backend
+Link in bio generator - backend
